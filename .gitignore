@@ -1,33 +1,30 @@
-# Gradle files
-.gradle/
-build/
-
-# Local configuration file (sdk path, etc)
-local.properties
-
-# Log/OS Files
-*.log
-
-# Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.apk
-output.json
-
-# IntelliJ
-*.iml
-.idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
-
-# Keystore files
-*.jks
-*.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+        body {
+            background-color: lightblue;
+            font-family: Arial, sans-serif;
+        }
+        .styled-paragraph {
+            color: blue;
+            font-size: 16px;
+        }
+        .background-color {
+            background-color: blue; /* This will set the background color */
+            color: white; /* Adjust text color for better visibility */
+        }
+    </style>
+</head>
+<body>
+    <h1>It's Rima again. I'm a teenager, so it's bad.</h1>
+    <h1>Welcome to My Website</h1>
+    <p class="styled-paragraph">This is a styled paragraph.</p>
+    <p>See? I changed the color too ... wait, I'm acting like Doraaaaa. Ugh.</p>
+    <p><b><u>Never mind, I'll try to write something nicer later.</u></b></p>
+    <p class="background-color">And the background is refreshing.</p>
+    <table>
+        <!-- Add your table content here -->
+    </table>
+</body>
+</html>
